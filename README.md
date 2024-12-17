@@ -1,4 +1,7 @@
 # MLOps Learning Plan
+
+<br><br>
+
 ### **Phase 1: Strengthen Foundational Skills (1-2 months)**  
 
 **1. Python for MLOps**  
@@ -66,5 +69,3 @@
   - Example: Build and deploy an end-to-end ML pipeline with CI/CD, model monitoring, and automated retraining.  
 
 ---
-
-Would you like detailed tasks for each phase or additional resources for specific tools?
